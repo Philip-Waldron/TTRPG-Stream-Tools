@@ -1,0 +1,122 @@
+{
+    "AnomanderDeLuna": {
+        "Name": "Anomander DeLuna",
+        "Class": "Fighter 9 / Ranger 3",
+        "AC": 18,
+        "HP": 112,
+        "Strength": 20,
+        "Dexterity": 13,
+        "Constitution": 16,
+        "Intelligence": 9,
+        "Wisdom": 12,
+        "Charisma": 13
+    },
+    "BoloBonestaff": {
+        "Name": "Bolo Bonestaff",
+        "Class": "Sorcerer 8 / Fighter 4",
+        "AC": 20,
+        "HP": 106,
+        "Strength": 10,
+        "Dexterity": 17,
+        "Constitution": 19,
+        "Intelligence": 10,
+        "Wisdom": 12,
+        "Charisma": 20
+    },
+    "CalderThane": {
+        "Name": "Calder Thane",
+        "Class": "Rogue 8 / Mystic 4",
+        "AC": 18,
+        "HP": 115,
+        "Strength": 10,
+        "Dexterity": 20,
+        "Constitution": 18,
+        "Intelligence": 20,
+        "Wisdom": 14,
+        "Charisma": 14
+    },
+    "EllethaCarlamore": {
+        "Name": "Elletha Carlamore",
+        "Class": "Mystic 12",
+        "AC": 14,
+        "HP": 75,
+        "Strength": 8,
+        "Dexterity": 14,
+        "Constitution": 12,
+        "Intelligence": 20,
+        "Wisdom": 14,
+        "Charisma": 14
+    },
+    "Gaiar": {
+        "Name": "Gaiar",
+        "Class": "Warlock 12",
+        "AC": 18,
+        "HP": 135,
+        "Strength": 10,
+        "Dexterity": 20,
+        "Constitution": 19,
+        "Intelligence": 14,
+        "Wisdom": 18,
+        "Charisma": 20
+    },
+    "ImmeralMeliamne": {
+        "Name": "Immeral Meliamne",
+        "Class": "Druid 7",
+        "AC": 13,
+        "HP": 45,
+        "Strength": 10,
+        "Dexterity": 15,
+        "Constitution": 13,
+        "Intelligence": 14,
+        "Wisdom": 18,
+        "Charisma": 15
+    },
+    "LuoKrillki": {
+        "Name": "Luo Krillki",
+        "Class": "Monk 9 / Ranger 3",
+        "AC": 20,
+        "HP": 90,
+        "Strength": 14,
+        "Dexterity": 18,
+        "Constitution": 15,
+        "Intelligence": 10,
+        "Wisdom": 18,
+        "Charisma": 8
+    },
+    "RayMercer": {
+        "Name": "Ray Mercer",
+        "Class": "Wizard 11 / Artificer 1",
+        "AC": 19,
+        "HP": 75,
+        "Strength": 13,
+        "Dexterity": 12,
+        "Constitution": 15,
+        "Intelligence": 20,
+        "Wisdom": 16,
+        "Charisma": 19
+    },
+    "Snufkin": {
+        "Name": "Snufkin",
+        "Class": "Bard 4 / Warlock 1",
+        "AC": 12,
+        "HP": 28,
+        "Strength": 11,
+        "Dexterity": 14,
+        "Constitution": 10,
+        "Intelligence": 15,
+        "Wisdom": 12,
+        "Charisma": 18
+    },
+    "Visk": {
+        "Name": "Visk",
+        "Class": "Druid 5",
+        "AC": 19,
+        "HP": 48,
+        "Strength": 10,
+        "Dexterity": 18,
+        "Constitution": 18,
+        "Intelligence": 12,
+        "Wisdom": 20,
+        "Charisma": 6
+    }
+}
